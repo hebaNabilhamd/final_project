@@ -3,7 +3,6 @@ body{
     background-attachment: fixed;
     background-size:cover;
     background-image: url(image/carousel-1.jpg);
-    background-color: #9dc1c7;
 }
 .one{
     height: 600px;
