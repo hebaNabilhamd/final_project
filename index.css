@@ -1,0 +1,72 @@
+body{
+    background-color: #9cc1c7;
+    background-attachment: fixed;
+    background-size:cover;
+    background-image: url(image/bg-4.jpg);
+}
+.one{
+    height: 600px;
+    width:100%;
+    background-image: url(image/pg2.webp);
+    background-size:cover;
+}
+.bg-light {
+    background-color: rgba(255, 255, 255, 0.01) !important;
+}
+.write{
+    padding-top: 10%;
+    padding-left: 10%;
+    padding-right: 42%;
+}
+.h{
+    font-family: 'Bitter', serif;
+    font-size: 70px;
+}
+.p{
+    font-family: 'Stint Ultra Condensed', cursive;
+    font-size: 20px;
+    color: #57606f;
+}
+.card{
+    float: left;
+    margin-left: 80px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    margin-top: 10px;
+}
+.c{
+    margin-left: 200px;
+}
+.form{
+    background-color: rgba(255, 255, 255, 0.01) !important;
+    margin-left: 300px;
+}
+.in{
+  border-radius:20px;
+  width: 650px;
+  background: white;
+  color: #555555;
+    border: none;
+    display: block;
+    padding: 1em 1em;
+    text-decoration: none;
+    width: 100%;
+    border-radius: 20px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 12pt;
+    font-weight: 300;
+    line-height: 1.65em;
+}
+b{
+  color: #ffffff;
+  font-size: 20px;
+}
+.btn-outline-success {
+    color:#9dc1c7;
+    border-bottom-color: white;
+    border-color:white;
+    background-color: white;
+}
+.btn:hover{
+    background-color:#9dc1c7;
+}
