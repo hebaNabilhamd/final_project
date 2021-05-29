@@ -19,3 +19,27 @@ body{
     height: 170px;
     width: 270px;
 }
+.in{
+  border-radius:20px;
+  width: 650px;
+  background: white;
+  color: #555555;
+    border: none;
+    display: block;
+    padding: 1em 1em;
+    text-decoration: none;
+    width: 100%;
+    border-radius: 20px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 12pt;
+    font-weight: 300;
+    line-height: 1.65em;
+}
+.form{
+    background-color: rgba(255, 255, 255, 0.01) !important;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.mar{
+    margin-left:100px;
+}
