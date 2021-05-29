@@ -1,0 +1,27 @@
+.left{
+  position:fixed;
+  height: 100%;
+  background-color:white;
+  width: 20%;
+}
+body{
+  background-color:#9dc1c7;
+}
+.btn-outline-success {
+    color:white;
+    border-bottom-color: white;
+    border-color:#9dc1c7;
+    background-color: #9dc1c7;
+}
+.btn:hover{
+  color: #9dc1c7;
+    background-color:white;
+}
+.card{
+  padding: 10px;
+  margin: 10px;
+}
+.img{
+    height: 170px;
+    width: 270px;
+}
