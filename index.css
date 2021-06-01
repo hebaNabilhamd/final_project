@@ -2,11 +2,11 @@ body{
     background-color: #9cc1c7;
     background-attachment: fixed;
     background-size:cover;
-    background-image: url(image/bg-4.jpg);
+    background-image: url(image/bloor.jpg);
     background-color: #9dc1c7;
 }
 .one{
-    height: 600px;
+    height: 650px;
     width:100%;
     background-image: url(image/pg2.webp);
     background-size:cover;
@@ -73,6 +73,8 @@ b{
 }
 .login{
     background-image: url(image/pg3.webp);
+    font-style:italic;
+    color: black;
 }
 .log{
   margin-top: 30px;
@@ -81,8 +83,14 @@ b{
 }
 .logi{
   border-radius: 20px;
-  height: 40px;
+  height: 35px;
   width: 250px;
+  font-size: 15px;
+  border: none;
+   outline: none;
+}
+.logi:focus{
+  background-color:#bdc3c7;
 }
 .btn{
   margin-left: 10%;
@@ -90,8 +98,8 @@ b{
     width: 150px;
 }
 .header{
-  margin-left: 100px;
-  margin-top: 50px;
+  margin-left: 200px;
+  margin-top: 20px;
   font-family: 'Stint Ultra Condensed', cursive;
 }
 .aaa{
@@ -100,4 +108,13 @@ b{
 .deco{
 text-decoration: none;
     color: white;
+}
+.t{
+  width: 130px;
+  font-size: 13px;
+  margin-right:20px;
+}
+.radio {
+  float: left;
+  margin-right: 80px;
 }
