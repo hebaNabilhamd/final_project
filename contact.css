@@ -1,0 +1,92 @@
+.headcontact{
+  height:400px;
+  width: 100%;
+    background-image: url(image/contact-heading.jpg);
+    background-repeat: no-repeat;
+}
+.bg-light {
+    background-color: rgba(255, 255, 255, 0.01) !important;
+}
+h1{
+    color: #fff;
+    font-size: 62px;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+h4{
+    color: #f33f3f;
+    font-size: 22px;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-bottom: 15px;
+    text-align: center;
+}
+.h{
+    top: 20%;
+    transform: translate(50%,50%);
+    position: absolute;
+}
+h2{
+    font-size: 28px;
+    font-weight: 400;
+    color: #1e1e1e;
+    margin-bottom: 15px;
+}
+.main_contact{
+    margin-top: 80px;
+    margin-left: 100px;
+    float: left;
+    margin-right: 60px;
+}
+.map{
+    height: 350px;
+    width: 750px;
+    border-radius: 10px;
+    box-shadow: 12px 10px #bdc3c7 ;
+}
+.aboutus{
+    margin-top: 200px;
+    margin-right: 70px;
+}
+h3{
+    font-size: 20px;
+    color: #1a6692;
+    margin-bottom: 20px;
+}
+.logo{
+    border-radius: 50%;
+    margin-left: 17px;
+    height: 50px;
+    width: 50px;
+}
+.in{
+  border-radius:20px;
+  width: 650px;
+  background-color:#d1ccc0;
+  color: snow;
+    border: none;
+    display: block;
+    padding: 1em 1em;
+    text-decoration: none;
+    width: 100%;
+    border-radius: 20px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 12pt;
+    font-weight: 300;
+    line-height: 1.65em;
+}
+.form{
+    background-color: rgba(255, 255, 255, 0.01) !important;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.btn-outline-success {
+    color:white;
+    border-bottom-color: white;
+    border-color:red;
+    background-color: red;
+}
+.btn:hover{
+  color: red;
+    background-color:white;
+}
