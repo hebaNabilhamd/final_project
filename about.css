@@ -82,3 +82,29 @@ h5{
 .center{
     margin-top: 100px;
 }
+.headcontact{
+  height:400px;
+  width: 100%;
+    background-image: url(image/about-heading.jpg);
+    background-repeat: no-repeat;
+}
+.h1{
+    color: #fff;
+    font-size: 62px;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+.h4{
+    color: #f33f3f;
+    font-size: 22px;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-bottom: 15px;
+    text-align: center;
+}
+.h{
+    top: 20%;
+    left: 250px;
+    transform: translate(50%,50%);
+    position: absolute;
+}
