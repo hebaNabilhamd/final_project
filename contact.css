@@ -22,8 +22,8 @@ h4{
     text-align: center;
 }
 .h{
-    top: 30%;
-    left: 27%;
+    top: 20%;
+    transform: translate(50%,50%);
     position: absolute;
 }
 h2{
