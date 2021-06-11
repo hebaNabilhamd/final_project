@@ -14,6 +14,7 @@ body{
 .card{
   padding: 10px;
   margin: 10px;
+  height: 95%;
 }
 .img{
     height: 170px;
@@ -42,4 +43,19 @@ body{
 }
 .mar{
     margin-left:100px;
+}
+.card-text{
+}
+
+h4 , h3,h5,h2{
+  color: blue ;
+}
+
+.last_cards{
+  margin-left: 10px;
+  float: left;
+}
+
+.last_card1{
+  margin-left: 10px;
 }

@@ -1,8 +1,8 @@
 .headcontact{
   height:400px;
   width: 100%;
-    background-image: url(image/contact-heading.jpg);
-    background-repeat: no-repeat;
+  background-image: url(image/contact-heading.jpg);
+  background-repeat: no-repeat;
 }
 h1{
     color: #fff;
